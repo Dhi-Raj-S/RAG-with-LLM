@@ -3,7 +3,7 @@
 This repository will introduce you to Retrieval Augmented Generation (RAG) with
 easy to use examples that you can build upon. The examples use Python with
 Jupyter Notebooks and CSV files. The vector database uses the Qdrant database
-which can run in-memory.
+which can run in-memory..
 
 ## Setup your environment
 
